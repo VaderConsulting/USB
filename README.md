@@ -17,6 +17,10 @@ Keep `USBProject.log` (UTF-16 UpgradeLog) and `_UpgradeReport_Files` as VB6-to-V
 
 Open `USBProject.sln` in Visual Studio 2008 (solution format 10.00, ToolsVersion 3.5). Open `USB.sln` in Visual Studio 2005 (solution format 9.00).
 
+## Requirements
+
+- Visual Studio 2005 to 2008
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `USB`. USBProject `AssemblyCompany` Mecanique; HID interface is `mcHID.dll` (P/Invoke in `mcHIDInterface.vb`). Upgraded from VB6 at `C:\Program Files (x86)\Mecanique\EasyHID\USBProject\VisualBASIC\USBProject.vbp` (see `USBProject.log`). USB assembly copyright 2007.
